@@ -1,0 +1,36 @@
+_repo: American-Football_39743
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39743-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Camp, Walter
+    aliases:
+    - Camp, W. C. (Walter Chauncey)
+    - Camp, Walter Chauncey
+    birthdate: 1859
+    deathdate: 1925
+    gutenberg_agent_id: '5138'
+    url: http://www.gutenberg.org/2009/agents/5138
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Walter_Camp
+    - http://www.gutenberg.org/ebooks/author/44550
+description: ''
+gutenberg_issued: '2012-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39743'
+  lccn: '11008848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Football'
+tableOfContents: English and American Rugby -- End rusher -- The tackle -- The guard
+  -- The centre, or snap-back -- The quarter-back -- The half-back and back -- Signals
+  -- Training -- A chapter for spectators.
+title: American Football
+url: http://www.gutenberg.org/ebooks/39743
